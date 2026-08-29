@@ -40,6 +40,27 @@ The final output is an interactive **Microsoft Excel Dashboard** that provides a
 
 ---
 
+
+# 🔍 Key Business Insights
+
+- 📱 **Electronics dominates revenue:** Contributes **72.6%** of total revenue.
+- 👑 **Platinum customers drive value:** **68.4%** of customers contribute **93.9%** of lifetime spend.
+- 👥 **26–35 is the largest segment:** Generates **87,847 orders**.
+- 💳 **UPI is the leading payment method:** Accounts for **51.4%** of orders.
+- 🌎 **Uttar Pradesh leads revenue:** Generates approximately **₹76.8 Cr**.
+- 📦 **Strong delivery performance:** **80.1%** of orders are delivered.
+- 💰 **Profitability:** ₹593.1 Cr revenue generates ₹48.6 Cr profit with an **8.2% margin**.
+- 📈 **Stable revenue trend:** Monthly revenue remains between approximately **₹21.5–24.8 Cr**.
+- 🔄 **Improvement opportunity:** Returns and cancellations each account for approximately **5%** of orders.
+- 🎯 **Business focus:** Improve category diversification, customer retention, profitability, and fulfillment performance.
+
+---
+
+# 📊 Dashboard Preview
+
+![E-Commerce Analytics Dashboard](Dashboard_picture.png)
+
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
